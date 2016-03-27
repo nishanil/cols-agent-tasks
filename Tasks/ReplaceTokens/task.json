@@ -1,9 +1,9 @@
 {
   "id": "9240B5C1-A1B2-4799-9325-E071C63236FB",
-  "name": "ReplaceTokens",
-  "friendlyName": "Replace Tokens",
-  "description": "Replaces tokens in a file using RegEx. Values come from any variable defined in the current Environment.",
-  "author": "Colin Dembovsky (colinsalmcorner.com)",
+  "name": "ReplaceTokensPlugMac",
+  "friendlyName": "Replace Tokens Mac Friendly",
+  "description": "Replaces tokens in a file using RegEx and works on Mac. Values come from any variable defined in the current Environment.",
+  "author": "Colin Dembovsky (colinsalmcorner.com) + Nish + James",
   "helpMarkDown": "[More Information](https://github.com/colindembovsky/cols-agent-tasks/tree/master/Tasks/ReplaceTokens)",
   "category": "Utility",
   "visibility": [
